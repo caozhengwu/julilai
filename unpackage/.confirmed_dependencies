@@ -1,0 +1,173 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"img/banner2.jpg",
+			"img/banner4.jpg",
+			"img/banner1.jpg",
+			"img/banner3.jpg",
+			"js/index.js",
+			"img/application.png",
+			"css/index.css",
+			"img/risk5.svg",
+			"img/bank.svg",
+			"img/applic.svg",
+			"fonts/mui.ttf",
+			"img/rule.svg",
+			"img/box.svg",
+			"goods.html",
+			"Discovery page.html",
+			"home.html"
+		],
+		"refer": [
+			"Discovery page.html",
+			"goods.html",
+			"home.html",
+			"sub4.html",
+			"person.html"
+		]
+	},
+	"goods.html": {
+		"resources": [
+			"js/goods.js",
+			"css/goods.css",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"img/danger.svg"
+		]
+	},
+	"Discovery page.html": {
+		"resources": [
+			"js/find.js",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"css/find.css",
+			"img/2.jpg",
+			"img/1.jpg",
+			"img/4.jpg",
+			"img/3.jpg",
+			"fonts/mui.ttf",
+			"home.html"
+		],
+		"refer": [
+			"home.html"
+		]
+	},
+	"home.html": {
+		"resources": [
+			"img/rule.svg",
+			"img/risk5.svg",
+			"img/banner2.jpg",
+			"css/index.css",
+			"img/bank.svg",
+			"img/applic.svg",
+			"img/banner4.jpg",
+			"img/box.svg",
+			"img/banner1.jpg",
+			"img/banner3.jpg",
+			"goods.html",
+			"css/mui.min.css",
+			"js/mui.min.js",
+			"js/index.js",
+			"js/home.js",
+			"css/home.css",
+			"home-introduce.html",
+			"home-danger.html",
+			"home-bank.html"
+		],
+		"refer": [
+			"Discovery page.html",
+			"goods.html",
+			"home-introduce.html",
+			"home-danger.html",
+			"home-bank.html",
+			"home-Novice.html"
+		]
+	},
+	"person.html": {
+		"resources": [
+			"js/person.js",
+			"css/person.css",
+			"img/huiyuan.svg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"img/girl.PNG",
+			"img/girl2.png"
+		]
+	},
+	"home-introduce.html": {
+		"resources": [
+			"img/xinxi.svg",
+			"css/home-introduce.css",
+			"img/bg.svg",
+			"img/book.svg",
+			"img/yg.svg",
+			"img/qb.svg",
+			"img/news.svg",
+			"img/hj.svg",
+			"img/peop.svg",
+			"img/flower.svg",
+			"img/fx.svg",
+			"img/people.png",
+			"img/jg.svg",
+			"img/sj.svg",
+			"img/y.svg",
+			"img/sb.svg",
+			"img/cat.jpg",
+			"img/bb.svg",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"fonts/mui.ttf",
+			"home.html"
+		],
+		"refer": [
+			"home.html"
+		]
+	},
+	"home-danger.html": {
+		"resources": [
+			"img/suo.svg",
+			"img/sanr.svg",
+			"css/home-danger.css",
+			"img/huaxiaBank.jpg",
+			"img/sanl.svg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"home.html"
+		],
+		"refer": [
+			"home.html"
+		]
+	},
+	"home-bank.html": {
+		"resources": [
+			"img/ed.svg",
+			"fonts/mui.ttf",
+			"css/home-bank.css",
+			"img/4.jpg",
+			"img/tu2.jpg",
+			"img/bank-bu.svg",
+			"img/material.svg",
+			"img/icp.svg",
+			"home.html",
+			"js/mui.min.js",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"home.html"
+		]
+	},
+	"home-Novice.html": {
+		"resources": [
+			"css/home-Novice.css",
+			"js/home-Novice.js",
+			"js/mui.min.js",
+			"img/1.jpg",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	}
+}

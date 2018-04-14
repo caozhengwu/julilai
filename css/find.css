@@ -1,0 +1,59 @@
+body{
+	background: #cfcfcf;
+}
+.banner{
+	height: 190px;
+}
+.banner img{
+	height: 190px;
+}
+
+/*Consulting*/
+.Consulting{
+	background: #fff;
+	margin-bottom: 50px;
+}
+.Consulting h5{
+	font-size:18px;
+	font-family: verdana;
+	color:#333;
+	padding:15px 0;
+	text-indent: 15px;
+}
+.Consulting-con a{	
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+  	padding:0 15px;
+}
+.Consulting-con img{
+	width: 45%;
+	height: 80px;
+	background: red;
+	margin-right: 10px;
+}
+.Consulting-con .fonts .fonts-tit{
+	font-size:18px;
+	font-family: "微软雅黑";
+	color:#000;
+	padding-top:8px;
+}
+.Consulting-con .fonts .fonts-details{
+	font-size:12px;
+	font-family: "微软雅黑";
+}
+.Consulting-fun{
+	margin-bottom: 20px;
+}
+
+/*footer*/
+footer{
+	text-align: center;
+	padding-bottom: 20px;
+	font-family: verdana;
+	color:#888;
+}
+
+
+
+
+

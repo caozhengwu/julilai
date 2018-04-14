@@ -1,0 +1,252 @@
+body{
+	background:#ccc;
+}
+
+.banner{
+	/*position: relative;*/
+}
+.mui-pull-left{
+	/*position: absolute;*/
+}
+
+/*function*/
+.function{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+  	justify-content: center;
+  	padding-top:10px;
+  	margin-top: 5px;
+  	margin-bottom: 5px;
+  	background: #fff;
+}
+.fun{
+	text-align: center;
+}
+.fun a{
+	width: 60px;
+	display: inline-block;
+	height: 60px;
+	border-radius: 25px;
+	background:-webkit-linear-gradient(#ffcb1d,#ff4817);
+	margin:0 25px;
+}
+.fun p{
+	color:#333;
+	font-size:14px;
+	top:10px;
+	left:20px;
+	font-size:12px;
+	color:#777;
+}
+.fun img{
+	width:40px;
+	height: 40px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.Risk-Management a{
+	background: -webkit-linear-gradient(#31a3ff,#1616ff);
+}
+.Bank-custody a{
+	background: -webkit-linear-gradient(#ff3f77,#ff1212);
+}
+.Bank-custody img{
+	margin-top:8px;
+}
+
+/*Novice-exclusive*/
+.Novice-exclusive{
+	background:#fff;
+	margin-bottom: 5px;
+}
+.Novice-exclusive h2{
+	font-size:16px;
+	font-family: Verdana;
+	text-indent: 15px;
+	line-height:2.5;
+	font-weight: normal;
+}
+.Novice-fun{
+  	border-top: 1px #dfdfdf solid;
+  	padding-top:20px;
+  	border-bottom:1px #dfdfdf solid;
+}
+.Novice-fun a{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+}
+.interest-rate{
+	width: 60%;
+}
+.interest-rate .merry{
+	color:#ff1212;
+	font-size:42px;
+	padding-left:10px;
+	padding-top:10px;
+	margin-bottom: 15px;
+}
+.interest-rate .fonts{
+	padding-left:20px;
+	font-size:14px;
+	color:#333;
+	font-family: "微软雅黑";
+}
+.Novice-times{
+	width: 40%;
+	text-align: center;
+}
+.Novice-times button{
+	border:none;
+	outline: none;
+	padding:8px 20px;
+	border:1px #ff1212 solid;
+	border-radius: 20px;
+	font-size:14px;
+	color:#ff1212;
+	font-family:Verdana;
+	margin-bottom: 10px;
+}
+.Novice-times .fonts{
+	font-size:14px;
+	color:#333;
+	font-family: "微软雅黑";
+}
+/*i-int*/
+.i-int{
+	padding-top:50px;
+	margin:0 18px;
+	border-top:none;
+}
+.i-int .merry{
+	font-size:30px;
+	padding-left:0;
+	
+}
+.i-int .fonts{
+	padding-left: 0;
+	font-size: 12px;
+	color:#888;
+}
+.i-int .line{
+	width: 1px;
+	margin:0 15px 0;
+	height: 50px;
+	background: #ccc;
+}
+.i-int .interest-rate{	
+	position: relative;
+}
+.i-int .Novice-times{
+	width:30%;
+	text-align:left;
+}
+.i-int .term{
+	font-size:14px;
+	color:#000;
+	padding-top:15px;
+} 
+.i-int .posi{
+	position: absolute;
+	top:-30px;
+	right:-8px;
+	color:#fff;
+	background: orange;
+	font-size: 11px;
+	padding:0 8px;
+	font-family:Verdana;
+}
+/*drawback*/
+.drawback{
+	border-bottom: none;
+}
+
+
+
+/*reading*/
+.reading{
+	background: #fff;
+}
+.reading h2{
+	font-size:16px;
+	font-family: Verdana;
+	text-indent: 15px;
+	line-height:2.5;
+	font-weight: normal;
+}
+.reading-fun{
+  	padding:25px 20px 20px;
+}
+.reading-fun a{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+}
+.reading-fun .people,.reading-fun .merrys{
+	width: 50%;
+	text-align: center;
+	
+}
+.reading-fun .wan{
+	font-size: 22px;
+	font-family: Verdana;
+	color:#000;
+}
+.reading-fun .nums{
+	font-size:12px;
+	color:#666;
+}
+.reading-fun .line{
+	width: 0;
+	border-left:1px #dfdfdf solid;
+	margin:0 15px 0;
+	height: 50px;
+}
+
+
+/*rules*/
+.rule{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+  	background: #fff;
+}
+.rule>div{
+	width:46%;
+	margin-left:10px;
+	padding:0 10px;
+	text-align: center;
+	border-radius: 3px;
+	margin-bottom: 25px;
+}
+.bank-rules{
+	background: #a6d2ff;
+}
+.rule p{
+	width:50%;
+	font-size:14px;
+	line-height: 1.5;
+	font-family:Verdana;
+	display: inline-block;
+}
+.rule img{
+	width: 45px;
+	height: 45px;
+	margin-left:10px;
+	margin-top:15px;
+}
+.bank-rules p{
+	color:#0a0a58;
+}
+.teach{
+	background: #a6fbc8;
+}
+.teach p{
+	color:#202722;
+}
+
+
+
+
+
+
+
+
+

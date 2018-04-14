@@ -1,0 +1,176 @@
+body{
+	background: #eee;
+}
+
+/*header*/
+header{	
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+  	padding-top:20px;
+  	justify-content: center;
+  	position: fixed;
+  	top: 0;
+  	left: 0;
+  	border-bottom: 1px #ccc solid;
+}
+.mui-content header{
+ 	background: #fff;
+}
+header a{
+	width: 50%;
+	padding-bottom: 5px;
+	display: inline-block;
+	text-align: center;
+	color:#333;
+	font-size:16px;
+	font-family: "黑体";
+}
+header a:hover{
+	color:#f00;
+	border-bottom: 2px #f00 solid;
+}
+
+
+/*function*/
+.function{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+  	margin-top:50px;
+	margin-bottom: 5px;
+	background: #fff;
+	padding-top:15px;
+}
+.function>div{
+	width:45%;
+	margin-left:10px;
+	padding:0 10px;
+	text-align: center;
+	border-radius: 3px;
+	margin-bottom: 25px;
+	background: deeppink;
+	padding:15px 0 0;
+}
+.function a p:first-child{
+	color:#fff;
+	font-family: "微软雅黑";
+	margin-bottom: 0;
+}
+.function a p:last-child{
+	font-size: 12px;
+	color:#bbb;
+}
+.function .Risk-Management{
+	background:-webkit-linear-gradient(#ff5212,#f31400);
+}
+.function .product-presentation{
+	background: -webkit-linear-gradient(#da24da,purple);
+}
+
+/*month*/
+.month{
+	background: #fff;
+}
+.month h6{
+	font-size:16px;
+	color:#000;
+	font-family: "黑体";
+	text-indent: 10px;
+	padding:10px 0 5px;
+}
+.Novice-fun{
+  	border-top: 1px #dfdfdf solid;
+  	padding-top:20px;
+  	padding:20px 10px 0;
+  	border-bottom:1px #dfdfdf solid;
+}
+.Novice-fun a{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+}
+.interest-rate{
+	width:50%;
+}
+.interest-rate .merry{
+	color:#ff1212;
+	font-size:25px;
+	padding-top:10px;
+	margin-bottom: 15px;
+}
+.interest-rate .fonts{
+	font-size:12px;
+	color:#666;
+	font-family: "微软雅黑";
+}
+.Novice-times{
+	width: 50%;
+	text-align: right;
+}
+.Novice-times .term{
+	color:#000;
+	padding-top:10px;
+	padding-bottom: 5px;
+}
+.Novice-times .term span{
+	color:#f00;
+}
+.Novice-times .fonts{
+	font-size:12px;
+}
+.Novice-times .fonts span{
+	border:1px #ccc solid;
+	padding:2px 5px;
+}
+.Novice-fun .invest{
+	width: 100%;
+	padding:5px 0;
+	background: #f91818;
+	color:#fff;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	text-align: center;
+	display: inline-block;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+
+/*footer*/
+footer{
+	text-align: center;
+	font-family: verdana;
+	color:#888;
+}
+footer p:first-child{
+	font-size: 12px;
+	color:#555;
+	padding-top:10px;
+}
+footer .bank{
+	font-size:13px;
+	border:1px green solid;
+	border-radius: 20px;
+	width:45%;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	padding:3px 10px 20px;
+}
+footer .bank img{
+	float: left;
+	margin-top: 2px;
+}
+footer .bank span{
+	display: inline-block;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+

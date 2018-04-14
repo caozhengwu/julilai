@@ -1,0 +1,115 @@
+.mui-content{
+	background: -webkit-linear-gradient(red,#7b0101 80%,#560000);
+	
+}
+.banner img{
+	width: 100%;
+}
+
+.con h3{
+	font-size:18px;
+	font-weight: normal;
+	font-weight: 600;	
+	font-family: verdana;
+	text-align: center;
+	color:yellow;
+	padding-top:10px;
+	padding-bottom: 20px;
+}
+.con span{
+	font-weight: bold;
+	margin:0 8px;
+	font-size: 20px;
+	color: #900000;
+}
+
+.con-kuai{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+  	justify-content: center;	
+  	padding:0 15px;
+}
+.con-kuai>div{
+	width: 50%;
+	padding:20px 5px 10px;
+	text-align: center;
+	margin:0 5px;
+	border-radius: 5px;
+	border:1px #fb4300 solid;
+	margin-bottom: 10px;
+}
+.con-kuai>div p{
+	margin-bottom: 0;
+	color:#fff;
+}
+.con-kuai>div p:nth-child(2){
+	font-size:18px;
+}
+.con-kuai>div p:nth-child(3){
+	font-size: 11px;
+	color:#ffcbad;
+}
+.con-kuai>div img{
+	width: 55px;
+}
+.con-kuai>div .guojia{
+	padding:0 20px;
+}
+
+/*brand*/
+.brand h3{
+	font-size:18px;
+	font-weight: normal;
+	font-weight: 600;	
+	font-family: verdana;
+	text-align: center;
+	color:yellow;
+	padding-top:10px;
+	padding-bottom: 20px;
+}
+.brand h3 span{
+	font-weight: bold;
+	margin:0 8px;
+	font-size: 22px;
+	color: #690202;
+}
+.brand ul{
+	padding-left: 0;
+}
+.brand ul li{
+	display: -webkit-flex; /* Safari */
+  	display: flex;
+  	justify-content: center;
+	
+}
+.brand ul li a{
+	margin:0 12px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.brand ul li a p{
+	font-size: 10px;
+	margin-bottom: 0;
+	color:#fff;
+}
+.brand ul li a img{
+	width: 100%;
+}
+
+.brand>p{
+	font-size: 8px;
+	width: 100%;
+	text-align: right;
+	color:#cfcfcf;
+}
+
+
+
+
+
+
+
+
+
+
+
